@@ -1,4 +1,4 @@
-# Electronics Store MIS
+# Electronics Store Management Information System
 ## Overview
 This repository contains a live, scalable Management Information System built for a small electronics retail business. It uses Microsoft Access as the primary front-end and data store, Excel for exports and ad-hoc analysis, and SQL for robust querying and optional backend scaling; the system supports core business entities including employees, customers, suppliers, inventory, sales and invoices and delivers practical analytic capabilities such as sales summaries, profit and loss reports, payroll listings and date-filterable financial views. It is also designed for real operational use with continuous updates (new products, customers, transactions) rather than a static demo. 
 
