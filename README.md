@@ -58,20 +58,20 @@ The Repository contains 2 versions of the MIS:
 
 **Homepage**
 
-<img width="840" height="615" alt="image" src="https://github.com/user-attachments/assets/39a5b2dc-7e0d-4738-865d-702ce6ea6955" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/39a5b2dc-7e0d-4738-865d-702ce6ea6955" />
 
 **Customer Form**
 
-<img width="1194" height="623" alt="image" src="https://github.com/user-attachments/assets/bd805efc-5428-4e4a-8c05-83a2bef4d946" />
+<img width="700" height="550" alt="image" src="https://github.com/user-attachments/assets/bd805efc-5428-4e4a-8c05-83a2bef4d946" />
 
 **Invoice Form**
 
-<img width="1504" height="623" alt="image" src="https://github.com/user-attachments/assets/e1097627-5f85-4f4a-9a18-d3f82ffa2bba" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/e1097627-5f85-4f4a-9a18-d3f82ffa2bba" />
 
 
 **Voucher Form**
 
-<img width="1449" height="617" alt="image" src="https://github.com/user-attachments/assets/80e42d51-c2e3-4a83-832b-a2621bb17c3b" />
+<img width="750" height="617" alt="image" src="https://github.com/user-attachments/assets/80e42d51-c2e3-4a83-832b-a2621bb17c3b" />
 
 
 **Customer Search**
@@ -81,15 +81,15 @@ The Repository contains 2 versions of the MIS:
 
 **Sales-Profit Report**
 
-<img width="1534" height="605" alt="image" src="https://github.com/user-attachments/assets/635002c1-8b69-459e-a49c-14584e50b90b" />
+<img width="700" height="605" alt="image" src="https://github.com/user-attachments/assets/635002c1-8b69-459e-a49c-14584e50b90b" />
 
 **Payroll Report**
 
-<img width="1202" height="459" alt="image" src="https://github.com/user-attachments/assets/9e7b525b-7353-4a8a-88d0-61ba403c8ddc" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9e7b525b-7353-4a8a-88d0-61ba403c8ddc" />
 
 **Payroll app SQL**
 
-<img width="1211" height="659" alt="image" src="https://github.com/user-attachments/assets/30b23792-5b5b-41c4-b0ad-6faa23f71214" />
+<img width="700" height="602" alt="image" src="https://github.com/user-attachments/assets/30b23792-5b5b-41c4-b0ad-6faa23f71214" />
 
 
 ## Conclusion
