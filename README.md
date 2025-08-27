@@ -10,6 +10,26 @@ The Repository contains 2 versions of the MIS:
 
 ## Instructions 
 
+Important: Running the Access File
+
+When you download the .accdb file, Microsoft Access may block macros for security reasons. If you see a warning or a red strip at the top of the application, do the following to enable full functionality:
+
+Important: Running the Access File
+
+1. Unblock the file before opening
+   - Right-click the downloaded file
+   - Select Properties
+   - Check "Unblock" (if available)
+   - Click OK
+
+2. Place the file in a Trusted Location
+   - Open Access → File → Options → Trust Center → Trust Center Settings → Trusted Locations
+   - Add the folder containing the file
+
+
+Once the file is in a trusted location or unblocked, you can open it, log in, and all macros, forms, and reports will work correctly.
+
+
 **Username:** "mohawk"
 
 
