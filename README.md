@@ -43,6 +43,8 @@ The Repository contains 2 versions of the MIS:
   ## MIS Showcase
 
 **Login Page**
+
+
 <img width="700" height="544" alt="image" src="https://github.com/user-attachments/assets/34c0f994-2c21-4412-b9ad-54cfdd990300" />
 
 
