@@ -45,6 +45,12 @@ The Repository contains 2 versions of the MIS:
 **Login Page**
 <img width="1204" height="544" alt="image" src="https://github.com/user-attachments/assets/34c0f994-2c21-4412-b9ad-54cfdd990300" />
 
+
+
+
+
+
+
 **Data Model**
   
   <img width="1782" height="629" alt="image" src="https://github.com/user-attachments/assets/77eb5bb5-4c5b-4ddf-b07c-ea2e1f766ca0" />
